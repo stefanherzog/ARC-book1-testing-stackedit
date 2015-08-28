@@ -2,7 +2,7 @@
 
 # Chapter Summary
 
-XXX.
+XXX. Do we need a summary here?
 
 
 # Key Questions
