@@ -203,13 +203,7 @@ Here you copy and paste the reference entries (see the next page on how to creat
 
     enter code here
 
-In the first book from the Center for Adaptive Rationality, we aim to tackle perhaps the toug
-
-
-----------
-
-
-hest topic in our field: how do people tame uncertainty? Our proposal has four parts where we are asking for contributions from the members of ARC. Briefly each of the four parts examines this question from each of the different perspectives present in ARC: how heuristics are used to cut through the uncertainty; how people search uncertain options and environments to ultimately reduce their uncertainty and make a more informed decision; how the social world impacts how we deal with uncertainty and in some cases helps us navigate uncertainty; and how the adaptive mind changes partly in response to uncertainty but also how it changes in handling uncertainty.  
+In the first book from the Center for Adaptive Rationality, we aim to tackle perhaps the toughest topic in our field: how do people tame uncertainty? Our proposal has four parts where we are asking for contributions from the members of ARC. Briefly each of the four parts examines this question from each of the different perspectives present in ARC: how heuristics are used to cut through the uncertainty; how people search uncertain options and environments to ultimately reduce their uncertainty and make a more informed decision; how the social world impacts how we deal with uncertainty and in some cases helps us navigate uncertainty; and how the adaptive mind changes partly in response to uncertainty but also how it changes in handling uncertainty.  
 
 We seek a coherent message on our research: one that makes interconnections within the chapters of the book, but also makes connections outside the book to the broader fields of the cognitive and decision sciences and beyond. Moreover, we envision each chapter as being written to be accessible to a wide range of scientists that informs the readers of the progress our group has made in this area, and serves as a forum to push beyond conventional thinking. Borrowing the words of the [editorial policy] for *Trends in Cognitive Science* the chapters should “…offer more than summaries, they should contribute insight.” Hopefully, they should provide a means to offer insight beyond the conventional journal articles we have written on the subject. 
 
